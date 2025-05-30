@@ -23,7 +23,7 @@ This is a modern, AI-enabled to-do list application built using the latest web t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:jainhemant-dev/a002-t001-enterprise-grade-to-do-list.git
    cd a002-t001-enterprise-grade-to-do-list
    ```
 2. Install dependencies:
